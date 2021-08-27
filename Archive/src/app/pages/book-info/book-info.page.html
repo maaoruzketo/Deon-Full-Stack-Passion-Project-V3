@@ -1,0 +1,45 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Book Info</ion-title>
+  </ion-toolbar>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+</ion-header>
+
+<ion-content>
+  <ion-grid>
+    
+    <div *ngFor='let x of bookDetails;let i =index'>
+      <div *ngIf='i == 0'>
+        <div class="row">
+          <div class="col-4">
+            <img class="img-fluid" alt="Responsive image" src="https://cdn.mangaeden.com/mangasimg/{{x.bookCover}}" />
+          </div>
+          <div class="col-6">
+            <ul>
+              <h3 class="div">{{x.name}}</h3>
+              <div class="div deets">Author: {{x.author}}</div>
+              <div class="div deets">Description: {{x.desc}}</div>
+              <div class="col">
+                <ion-button (click)="addToFavorites()">Favorite</ion-button>
+              </div>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+          <ion-col size="3" *ngIf='i>0'>
+            <button (click)="showInfo(x.chapterApiId)">{{x.chapterNumber}}</button>
+          </ion-col>
+    </div>
+
+    
+    
+    <div class="row">
+      <div class="col">
+        <ul *ngFor=' let c of category'>
+          <h4>{{c.category}}</h4>
+        </ul>
+      </div>
+    </div>
+  </ion-grid>
+</ion-content>

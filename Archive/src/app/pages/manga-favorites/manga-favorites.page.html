@@ -1,0 +1,23 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title class="headerTitle">Manga Favorites</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="row">
+    <div class="col-4" *ngFor='let x of favoriteManga; let i = index'>
+      <ion-card class="sizing" class="item-fluid">
+        <img class="img-fluid" alt="Responsive image" src="{{x.bookCover}}" class="img"/>
+        <ion-card-header>
+        </ion-card-header>
+      ​
+        <ion-card-content class="bodySizing">
+          <ion-title>{{x.mangaName}}</ion-title>
+          <ion-button (click)="showInfo(i)">Book Info</ion-button>
+          <ion-button (click)="removeFromFavorites(i)">Remove</ion-button>
+        </ion-card-content>
+      </ion-card>
+    </div>
+  </div>
+</ion-content>

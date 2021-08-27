@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>mangaSearch</ion-title>
+  </ion-toolbar>
+  <ion-toolbar>
+    <ion-searchbar background="" icon-color="warning" color="warning"></ion-searchbar>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="row">
+    <div class="col" *ngFor='let x of recommendations'>
+      <app-card></app-card>
+    </div>
+  </div>
+</ion-content>

@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>manga Read</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <!-- <img class="img-fluid" alt="Responsive image" src="https://cdn.mangaeden.com/mangasimg/{{x.page}}"/> -->
+  </ion-list>
+  <div class="row">
+    <div class="col-4"></div>
+    <div class="col-2"><button (click)='onNext()' type="button" class="btn btn-dark">Previous</button></div>
+    <div class="col-2"><button (click)='onPrev()' type="button" class="btn btn-dark">Next</button></div>
+    <div class="col-4"></div>
+  </div>
+  <div class="row">
+    <div class="col-2"></div>
+    <div *ngIf="!firstTime" class=" col-7"><img class="img-fluid" alt="Responsive image" src={{pageImage}} class="img-fluid"
+        alt="Responsive image"></div>
+    <div class="col-2"></div>
+  </div>
+  <div class="row">
+    <div class="col-4"></div>
+    <div class="col-4"><button (click)='goBack()' type="button" class="btn btn-dark">Book Info</button></div>
+    <div class="col-4"></div>
+  </div>
+</ion-content>

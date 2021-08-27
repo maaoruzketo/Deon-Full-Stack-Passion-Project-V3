@@ -1,0 +1,47 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title class="headerTitle">Login</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="container">
+    <div class="row mt-5">
+      <div class="col-12 d-flex justify-content-center">
+        <h1>Welcome to Oden's Eye</h1>
+      </div>
+    </div>
+    <div class="row mt-5">
+      <div class="col-3"></div>
+      <div class="col-6">
+        <div class="card">
+          <h5 class="card-header">Login Below</h5>
+          <div class="card-body">
+            <form [formGroup]="registerForm" (ngSubmit)="submitForm()">
+              <div class="form-group">
+                <label for="UserName">User Name</label>
+                <input #uName type="text" id="UserName" formControlName="UserName" class="form-control" />
+                <small class="text-danger" *ngIf="UserName.invalid"> UserName is required </small>
+              </div>
+              <div class="form-row">
+                <div class="form-group col">
+                  <label for="Password">Password</label>
+                  <input #pWord type="Password" id="Password" formControlName="Password" class="form-control" />
+                  <div *ngIf="Password.invalid">Password is required</div>
+                </div>
+              </div>
+              <div class="text-center">
+                <button class="btn btn-primary mr-1">Login</button>
+              </div>
+            </form>
+            <div class="text-center">
+              <h3>Don't have an account?</h3>
+              <button (click)=leave() class="btn btn-primary mr-1">Sign Up</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-3"></div>
+    </div>
+  </div>
+</ion-content>

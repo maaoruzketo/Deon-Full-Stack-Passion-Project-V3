@@ -1,0 +1,184 @@
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/mangaDatabase.deps.json
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/mangaDatabase.runtimeconfig.json
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/mangaDatabase.runtimeconfig.dev.json
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/mangaDatabase.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/mangaDatabase.pdb
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/funkyfresh209/Desktop/untitled folder/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/funkyfresh209/Desktop/untitled folder/obj/Debug/netcoreapp3.1/mangaDatabase.csprojAssemblyReference.cache
+/Users/funkyfresh209/Desktop/untitled folder/obj/Debug/netcoreapp3.1/mangaDatabase.MvcApplicationPartsAssemblyInfo.cache
+/Users/funkyfresh209/Desktop/untitled folder/obj/Debug/netcoreapp3.1/mangaDatabase.AssemblyInfoInputs.cache
+/Users/funkyfresh209/Desktop/untitled folder/obj/Debug/netcoreapp3.1/mangaDatabase.AssemblyInfo.cs
+/Users/funkyfresh209/Desktop/untitled folder/obj/Debug/netcoreapp3.1/mangaDatabase.RazorTargetAssemblyInfo.cache
+/Users/funkyfresh209/Desktop/untitled folder/obj/Debug/netcoreapp3.1/mangaDatabase.csproj.CopyComplete
+/Users/funkyfresh209/Desktop/untitled folder/obj/Debug/netcoreapp3.1/staticwebassets/mangaDatabase.StaticWebAssets.Manifest.cache
+/Users/funkyfresh209/Desktop/untitled folder/obj/Debug/netcoreapp3.1/staticwebassets/mangaDatabase.StaticWebAssets.xml
+/Users/funkyfresh209/Desktop/untitled folder/obj/Debug/netcoreapp3.1/mangaDatabase.dll
+/Users/funkyfresh209/Desktop/untitled folder/obj/Debug/netcoreapp3.1/mangaDatabase.pdb
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/mangaDatabase.deps.json
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/mangaDatabase.runtimeconfig.json
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/mangaDatabase.runtimeconfig.dev.json
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/mangaDatabase.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/mangaDatabase.pdb
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.csprojAssemblyReference.cache
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.csproj.CoreCompileInputs.cache
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.MvcApplicationPartsAssemblyInfo.cache
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.AssemblyInfoInputs.cache
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.AssemblyInfo.cs
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.RazorTargetAssemblyInfo.cache
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.csproj.CopyComplete
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/staticwebassets/mangaDatabase.StaticWebAssets.Manifest.cache
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/staticwebassets/mangaDatabase.StaticWebAssets.xml
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.dll
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.pdb
+/Users/csa_dsimmons/Downloads/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.genruntimeconfig.cache
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/mangaDatabase.deps.json
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/mangaDatabase.runtimeconfig.json
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/mangaDatabase.runtimeconfig.dev.json
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/mangaDatabase.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/mangaDatabase.pdb
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.csprojAssemblyReference.cache
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.csproj.CoreCompileInputs.cache
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.MvcApplicationPartsAssemblyInfo.cache
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.AssemblyInfoInputs.cache
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.AssemblyInfo.cs
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.RazorTargetAssemblyInfo.cache
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.csproj.CopyComplete
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/staticwebassets/mangaDatabase.StaticWebAssets.Manifest.cache
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/staticwebassets/mangaDatabase.StaticWebAssets.xml
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.dll
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.pdb
+/Users/csa_dsimmons/Downloads/simmonsFullstack v1/mangaDatabase/obj/Debug/netcoreapp3.1/mangaDatabase.genruntimeconfig.cache

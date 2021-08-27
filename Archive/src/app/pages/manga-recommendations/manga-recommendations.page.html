@@ -1,0 +1,44 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Manga Recommendations</ion-title>
+  </ion-toolbar>
+</ion-header>
+​
+<ion-content>
+    <div class="row">
+      <h2 class="catTitle">Top Shounen</h2>
+      <ul *ngFor='let s of shounen; let i=index'>
+        <div *ngIf='s.hits>6000000'>
+          <div *ngIf="!ten">
+            <div class="col-4">
+              <app-card (click)="showInfo(s)" [x]="s"></app-card>
+            </div>
+          </div> 
+        </div>
+        </ul>
+      </div>
+      <div class="row">
+        <h2 class="catTitle">Top Adventure</h2>
+        <ul *ngFor='let s of adventure'>
+          <div *ngIf='s.hits>6000000'>  
+            <app-card (click)="showInfo(s)" [x]="s"></app-card>
+          </div>
+          </ul>
+        </div>
+        <div class="row">
+          <h2 class="catTitle">Top Comedy</h2>
+          <ul *ngFor='let s of comedy'>
+            <div *ngIf='s.hits>6000000'>  
+              <app-card (click)="showInfo(s)" [x]="s"></app-card>
+            </div>
+            </ul>
+          </div>
+          <div class="row">
+            <h2 class="catTitle">Top Horror</h2>
+            <ul *ngFor='let s of horror'>
+              <div *ngIf='s.hits>4000000'>  
+                <app-card (click)="showInfo(s)" [x]="s"></app-card>
+              </div>
+              </ul>
+            </div>
+</ion-content>
